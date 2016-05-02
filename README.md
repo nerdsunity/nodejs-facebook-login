@@ -1,16 +1,16 @@
-# Facebook Login with NodeJS and PhantomJS
+# Facebook Login with NodeJs and PhantomJs
 
-With this simple script made with NodeJS and PhantomJS you can login into Facebook and scrape its contents.
+With this simple script made with NodeJs and PhantomJs you can login into Facebook and scrape its contents.
 
-  - Install NodeJS on your machine: https://nodejs.org/en/download/package-manager/
-  - Install PhantomJS on your machine: http://phantomjs.org/download.html
+  - Install NodeJs on your machine: https://nodejs.org/en/download/package-manager/
+  - Install PhantomJs on your machine: http://phantomjs.org/download.html
 
-# Want to learn NodeJS?
+# Master your NodeJs skills:
 50% OFF Udemy Coupon!
 
 Learn Nodejs by building 12 projects. Apply the Coupon on Udemy: http://bit.ly/udemy-coupon-nodejs.
 
-# Want to learn PhantomJS?
+# Master your PhantomJs skills:
 50% OFF Udemy Coupon!
 
 Scrape Websites using PhantomJS and CasperJS. Apply the Coupon on Udemy: http://bit.ly/udemy-coupon-phantomjs-casperjs. 
