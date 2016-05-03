@@ -19,14 +19,14 @@ Scrape Websites using PhantomJS and CasperJS. Apply the Coupon on Udemy: http://
 #### Disclaimer
 
 This script should be used for learning purposes only. By downloading and running this script you take every responsibility for wrong or illegal uses of it.
-Please read Facebook Terms of Service for more information:
+Please read Facebook Terms of Service and the MIT License for more information:
 https://www.facebook.com/terms
 
 #### License
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2016 NerdsUnity
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
