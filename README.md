@@ -4,6 +4,7 @@ With this simple script made with NodeJs and PhantomJs you can login into Facebo
 
   - Install NodeJs on your machine: https://nodejs.org/en/download/package-manager/
   - Install PhantomJs on your machine: http://phantomjs.org/download.html
+  - Run the script: phantomjs login.js "YOUR_FB_USERNAME" "YOUR_FB_PASSWORD"
 
 #### Learn NodeJs:
 ##### 50% OFF Udemy Coupon Code.
