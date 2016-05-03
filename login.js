@@ -18,7 +18,6 @@ var page = require('webpage').create();
 var data = {
     email : args[1],
     password:args[2],
-    emailToScrape:args[3]
 };
 
 page.open("http://www.facebook.com/login.php", function(status) {
