@@ -15,6 +15,6 @@ Scrape Websites using PhantomJS and CasperJS. Apply the Coupon on Udemy: http://
 
 #### Disclaimer
 
-This script should be used for testing purposes only. NerdsUnity does not take any responsibility for wrong or illegal uses of this script.
+This script should be used for learning purposes only. NerdsUnity does not have any responsibility for wrong or illegal uses of this script.
 
 
